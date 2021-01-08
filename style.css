@@ -58,6 +58,7 @@ a:hover {
 
 .button,
 .link-as-button {
+  font-weight: bold;
   cursor: pointer;
   display: inline-flex;
   border-radius: 6px;
@@ -66,7 +67,6 @@ a:hover {
   padding: 12px 8px;
   font-size: 0.9rem;
   color: white;
-  font-weight: normal;
 }
 
 .button:hover,
